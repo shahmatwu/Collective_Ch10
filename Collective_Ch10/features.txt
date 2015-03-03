@@ -1,0 +1,150 @@
+['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+(25.046474547347334, 'Iraqi Forces Press Tikrit Offensive Against ISIS')
+(25.01553807394324, 'Iraqi forces try to seal off Islamic State around Tikrit')
+(21.155971988656347, 'World Briefing: Australia to Send More Troops to Iraq as Trainers in ISIS Fight')
+
+['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+(26.601173357643425, 'Artist of Bill Clinton Portrait Reveals Secret - TWC News')
+(26.452455251776826, "Hillary Clinton's use of private email address while secretary of state draws scrutiny - Fox News")
+(25.030170213845469, 'Villerrica Volcano Erupts in Southern Chile, Thousands Flee - ABC News')
+
+['with', 'zone', 'india', 'girl', 'fatal', 'people']
+(14.307417741346564, 'Top Indian, Pakistani diplomats meet to mend ties')
+(14.044380287093665, 'Girl, 14, killed after Facebook spat')
+(13.257809887241148, "Exclusive: Obama sharply criticizes China's plans for new technology rules")
+
+['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+(71.255162877125201, "'Jihadi John' denies he's an extremist in 2009 tape - USA TODAY")
+(20.485782095982149, "UK intelligence asked Tanzania to stop 'Jihadi John' in 2009: source")
+(16.182225799065471, "'Jihadi John' emails released")
+
+['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+(47.352105259148004, 'Three Ukrainian soldiers killed in past 24 hours: Ukraine military source')
+(15.030854048216375, 'Families of victims of California mass shooter sue county, apartment')
+(13.996342972588785, 'Fighting in Ukraine Has Killed More Than 840 Since Mid-January, U.N. Says')
+
+['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+(33.904327820148509, 'Canadian pastor reported missing after trip to North Korea')
+(28.458338746669526, 'Pastor missing in North Korea')
+(9.9524627803899062, "North Korea has power to deter U.S. 'nuclear threat:' foreign minister")
+
+['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+(43.183415718858654, 'Afghanistan must prosecute government officials who violate rights: group')
+(19.079332268257794, 'Executions top long U.N. list of human rights concerns in Iran')
+(9.2730864930378942, 'Somali-American on FBI watch list detained in Somalia: source')
+
+['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+(41.451784599024663, "Rapist on victim: 'She should just be silent and allow rape'")
+(26.717293891431691, 'India rapist blames victim')
+(26.386604338934063, 'Film on 2012 Delhi gang rape stokes debate on Indian male mindset')
+
+['china', 'president', 'obama', 'second', 'reuters', 'barack']
+(32.3097158621472, "Exclusive: Obama sharply criticizes China's plans for new technology rules")
+(25.312515445708087, 'Exclusive: China investigates second top officer for graft - sources')
+(15.79186089287224, 'Supreme Court set to hear second major Obamacare challenge')
+
+['year', 'lunar', 'this', 'countries', 'many', 'will']
+(41.517973898508103, 'Lunar New Year 2015')
+(9.1994301339359303, 'Sinosphere Blog: China Overtakes U.S. at the Box Office')
+(8.7838557772509116, 'China to hold parade, invite leaders to mark World War Two anniversary')
+
+['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+(71.809814398087198, 'Villerrica Volcano Erupts in Southern Chile, Thousands Flee - ABC News')
+(28.259203670282375, 'Villarrica volcano erupts in southern Chile, thousands flee')
+(12.868656865556471, 'Thousands flee as volcano erupts in southern Chile')
+
+['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+(40.425289423537798, 'Mourners view body of slain opposition leader Boris Nemtsov')
+(19.807152479972611, 'Russia bids farewell to murdered opposition leader')
+(17.869588930219759, "Model's fears over Russia killing")
+
+['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+(57.811556011405393, "O'Malley won't seek Mikulski seat, keeps White House option - WTHI")
+(26.430528812882741, "O'Malley rules out Senate as decision over White House bid looms")
+(3.2985239578127974, "Michelle Obama heads to Asia to promote girls' education")
+
+['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+(73.436988081494036, "Hillary Clinton's use of private email address while secretary of state draws scrutiny - Fox News")
+(19.69746148215523, 'Hillary Clinton may have broken federal record-keeping laws: NY Times')
+(7.0057162919570635, 'First Draft: Today in Politics')
+
+['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+(53.6352148870685, 'The chilling reason the Delhi bus gang-rapist blames his victim - Washington Post')
+(4.1969055473578027, "'Night Wolves' motorcycle gang: We will die for Putin")
+(3.5353321335518388, 'House Poised to End Homeland Security Impasse Without Immigration Fight - NBCNews.com')
+
+['back', 'this', 'from', 'london', 'week', 'town']
+(33.488554871997074, "From warrior women to 'Lover's Lace'")
+(7.7533645319049871, 'Wimbledon champ ponders comeback ... on Twitter')
+(7.4400733405208692, 'Vintage NASA space photos up for auction')
+
+['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+(67.753036953863202, 'White House warns Netanyahu not to reveal Iran details - CNN')
+(14.958527895420351, "Iran calls Obama's 10-year nuclear demand 'unacceptable'")
+(12.7731011444095, 'White House warns Netanyahu not to reveal Iran details')
+
+['have', 'been', 'wolves', 'night', 'putin', 'reports']
+(26.386416094096422, "Meet Putin's 'Night Wolves'")
+(25.995416520661777, "'Night Wolves' motorcycle gang: We will die for Putin")
+(19.242323450744856, 'Oscar-winning best pictures')
+
+['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+(63.795842417970441, 'Flip for these pancakes on National Pancake Day - Fox News')
+(3.7290571090506228, 'Coolest pancake ever?')
+(2.5047915881084721, 'Latest News: Benjamin Netanyahu, John Kerry, Hillary Clinton')
+
+['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+(12.196976635995549, "North Korea has power to deter U.S. 'nuclear threat:' foreign minister")
+(11.340171518838961, "O'Malley rules out Senate as decision over White House bid looms")
+(10.899909237885529, 'Egypt court defers parliamentary election: judicial sources')
+
+['house', 'homeland', 'security', 'vote', 'without', 'will']
+(75.87055621690449, 'House Poised to End Homeland Security Impasse Without Immigration Fight - NBCNews.com')
+(19.988428785222137, 'GOP: House to vote on Homeland bill without conditions')
+(19.645672803214666, 'Boehner says U.S. House to vote on security bill: source')
+
+['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+(68.045057753431877, 'U.S. top trade official to brief House Democrats on trade')
+(18.975281585077436, 'Boehner says U.S. House to vote on security bill: source')
+(11.365267976074895, 'Cross Section of Democrats to Snub Netanyahu’s Speech to Congress')
+
+['world', 'photos', 'events', 'hold', 'leaders', 'some']
+(22.540812818540793, 'World War I in living color')
+(20.52576541965087, 'China to hold parade, invite leaders to mark World War Two anniversary')
+(17.031862606369856, "Freedivers' breathtaking photos of sharks")
+
+['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+(59.754685951309909, 'Artist of Bill Clinton Portrait Reveals Secret - TWC News')
+(19.433889298383431, "Lewinsky in Clinton's portrait")
+(12.16603741501544, "BILL'S BLUE PERIOD Artist reveals Monica detail in Clinton portrait")
+
+['email', 'account', 'clinton', 'personal', 'used', 'state']
+(44.520421905699642, 'Clinton used personal email account as Secretary of State')
+(36.686094556182645, 'Clinton had no official email')
+(24.155746320114915, "Hillary Clinton's use of private email address while secretary of state draws scrutiny - Fox News")
+
+['that', 'court', 'still', 'will', 'said', 'angeles']
+(19.246476409470855, "Rap mogul 'Suge' Knight taken to jail medical facility again")
+(16.614336119686229, 'Researchers Link Syrian Conflict to a Drought Made Worse by Climate Change')
+(16.28420438449179, 'Dreams come true for disabled coach')
+
+['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+(31.568138731827535, 'Video shows fatal Los Angeles police shooting of homeless man')
+(23.462371284608679, 'Timeline details ties between Fort Worth police chief, Taser')
+(22.632412350070634, 'Body-camera maker has financial ties to police chiefs')
+
+['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+(32.242188820353782, "Concerns Over Drug Prompt Delay of Georgia Woman's Execution")
+(32.242185385381518, "Concerns over drug prompt delay of Georgia woman's execution")
+(26.942174439323477, "Georgia halts execution of state's only female death row inmate")
+
+['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+(63.714960141815375, 'Russians stand in line to mourn by coffin of slain Nemtsov - Reuters')
+(33.304735007061225, 'Russians stand in line to mourn by coffin of slain Nemtsov')
+(9.9082370773080228, 'Russians mourn Putin foe')
+
+['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+(28.693583124817412, "Israel's Netanyahu to address Congress amid strained ties with Obama")
+(23.258111093491205, "Obama attacks Netanyahu's credibility")
+(20.396585474802578, "Netanyahu to use Congress' bully pulpit to assail Iran talks")
+

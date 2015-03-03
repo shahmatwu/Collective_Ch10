@@ -1,0 +1,1940 @@
+Supreme Court set to hear second major Obamacare challenge
+15.7918608929 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+4.76199419087 ['that', 'court', 'still', 'will', 'said', 'angeles']
+2.60187463023 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Russians stand in line to mourn by coffin of slain Nemtsov
+33.3047350071 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.8761033176 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+0.82870293888 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+North Korea has power to deter U.S. 'nuclear threat:' foreign minister
+12.196976636 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+9.95246278039 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+6.29780256283 ['that', 'court', 'still', 'will', 'said', 'angeles']
+
+Egypt court defers parliamentary election: judicial sources
+10.8999092379 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+6.12819396959 ['that', 'court', 'still', 'will', 'said', 'angeles']
+2.21365373618 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+Boehner says U.S. House to vote on security bill: source
+19.6456728032 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+18.9752815851 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+6.2443595809 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Israel's Netanyahu to address Congress amid strained ties with Obama
+28.6935831248 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+6.99308738907 ['that', 'court', 'still', 'will', 'said', 'angeles']
+6.02951211637 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+
+Iran calls Obama's 10-year nuclear demand 'unacceptable'
+14.9585278954 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+11.4588477024 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+9.99005089904 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Iraqi forces try to seal off Islamic State around Tikrit
+25.0155380739 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+5.04844855483 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+1.64085673398 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+
+Best Buy profit beats estimates on higher-margin TV sales
+4.64399724481 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+1.79457209963 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+1.3848306903 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+
+Citi to sell OneMain to Springleaf for $4.25 billion
+7.18572560848 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+0.683540772659 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+0.137365913276 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+
+Exclusive: China investigates second top officer for graft - sources
+25.3125154457 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+5.20622136789 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+3.94767762471 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+
+Hillary Clinton may have broken federal record-keeping laws: NY Times
+19.6974614822 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+6.97403917205 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+5.78710953443 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+
+Final stage of jury selection set for Boston bombing trial
+7.81440863655 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+6.16348395415 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+0.315940863221 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+
+Three Ukrainian soldiers killed in past 24 hours: Ukraine military source
+47.3521052591 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+7.259012456 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+4.42479951504 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+
+Investor survey shows 38 percent chance of euro zone break-up in 12 months
+8.68648814472 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+7.97579890071 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+5.60238500031 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+Ben Carson creates committee to explore presidential bid: WSJ
+6.44897052889 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+4.39475523435 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+3.67216822788 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Exclusive: Obama sharply criticizes China's plans for new technology rules
+32.3097158621 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+13.2578098872 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+2.00220092489 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+Brent crude up $1 to over $60.50 as global markets firm
+8.04202179232 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+1.27152714219 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+1.16575603057 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+
+Georgia halts execution of state's only female death row inmate
+26.9421744393 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+6.014476263 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+6.00850961529 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+China to hold parade, invite leaders to mark World War Two anniversary
+20.5257654197 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+10.4910692051 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+8.78385577725 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+
+Vermont town seeks to lower voting age to 16, from 18
+7.91628122732 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+5.29552066054 ['back', 'this', 'from', 'london', 'week', 'town']
+2.75645238535 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+U.S. top trade official to brief House Democrats on trade
+68.0450577534 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+6.16698392121 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+2.23037463421 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+O'Malley rules out Senate as decision over White House bid looms
+26.4305288129 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+11.3401715188 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+1.52641835596 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+
+Marijuana, guns and conservation on agenda for 2015 Florida legislature
+12.9777594526 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+7.48850241014 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+0.843954521631 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+
+Environmental groups sue Port of Seattle over Shell oil fleet
+7.78077462547 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+1.91080889504 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.913706582775 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Families of victims of California mass shooter sue county, apartment
+15.0308540482 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+6.85864092271 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+6.62474304996 ['that', 'court', 'still', 'will', 'said', 'angeles']
+
+U.S. economist Ross wins Deutsche prize for pricing models
+6.75921747727 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+5.2166248708 ['that', 'court', 'still', 'will', 'said', 'angeles']
+3.85755364596 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+Wisconsin representatives take up right-to-work bill
+5.8884606496 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+2.67587764619 ['back', 'this', 'from', 'london', 'week', 'town']
+1.77266170271 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+
+Italian ski tourist killed by falling glacier ice in Alaska
+7.16054556202 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+6.30447193131 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+3.79462121992 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+
+Rap mogul 'Suge' Knight taken to jail medical facility again
+19.2464764095 ['that', 'court', 'still', 'will', 'said', 'angeles']
+9.20637362157 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+6.43222266383 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Video shows fatal Los Angeles police shooting of homeless man
+31.5681387318 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+5.23930311306 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+1.66910014047 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+
+U.S. air safety threatened by possible hacking: senators
+8.01559441102 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+6.66516460052 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+2.71983007083 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+
+Witnesses describe shootings at Jewish centers in Kansas
+8.80484362612 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+6.33104290539 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+4.02817555348 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Lockheed sees shift in focus on infrastructure cyber security
+8.8379131031 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+1.48863311154 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+0.958843196789 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+Somali-American on FBI watch list detained in Somalia: source
+9.27308649304 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+7.47237961432 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+2.86759711494 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+Cleveland mayor apologizes for city response to Tamir Rice lawsuit
+12.2276624411 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+7.12790237536 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+4.34513173555 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Film on 2012 Delhi gang rape stokes debate on Indian male mindset
+26.3866043389 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+7.19890389653 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+4.51051295276 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Taxis jam Brussels in protest over possible Uber arrival
+9.10671275877 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+6.21734638539 ['that', 'court', 'still', 'will', 'said', 'angeles']
+1.03441806134 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+
+Britain laughs off Argentine Falklands banknote as 'a stunt'
+10.6640355128 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+6.09653427298 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+2.47236507734 ['back', 'this', 'from', 'london', 'week', 'town']
+
+UK intelligence asked Tanzania to stop 'Jihadi John' in 2009: source
+20.485782096 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+10.0686851028 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+4.00650509275 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+Michelle Obama heads to Asia to promote girls' education
+7.71946790018 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+7.69089518274 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+5.97228641194 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+
+Afghanistan must prosecute government officials who violate rights: group
+43.1834157189 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+6.56860310672 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+0.567392049725 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+
+Ukraine says return of Crimea a must for mending ties with Russia
+9.9746226845 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+9.50451109688 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+5.55130377411 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+
+Citing Russia and IS threat, Kosovo urges faster EU expansion
+6.12098825107 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+5.31934551559 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+1.40564298102 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+
+Executions top long U.N. list of human rights concerns in Iran
+19.0793322683 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+8.86960002571 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+6.82283233734 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+
+Libya forces hit Tripoli airport, to target Misrata: security official
+3.97660173776 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+3.86931184419 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+2.50547574747 ['back', 'this', 'from', 'london', 'week', 'town']
+
+Top Indian, Pakistani diplomats meet to mend ties
+14.3074177413 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+8.68190076327 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+5.997189267 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+U.N.-Cambodia tribunal charges two more ex-Khmer Rouge cadres
+8.51995269122 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+6.26157722555 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+2.8256646025 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+Magnitude 6.4 quake strikes off Indonesia, no reports of damage
+9.82538231808 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+3.22446918733 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+2.09877109531 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+
+Netanyahu to use Congress' bully pulpit to assail Iran talks
+20.3965854748 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+6.73931672172 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+5.55778200819 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+
+As Iraqis advance on Tikrit, threat of car bombs, mines loom
+20.5885687464 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+1.94461119707 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+0.908133149168 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+GOP: House to vote on Homeland bill without conditions
+19.9884287852 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+8.16089687566 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+3.53325177569 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+
+10 Things to Know for Today
+7.87116484648 ['that', 'court', 'still', 'will', 'said', 'angeles']
+3.99090402558 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+1.86599823272 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+Clinton used personal email account as Secretary of State
+44.5204219057 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+0.861896056502 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.861414953249 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+Body-camera maker has financial ties to police chiefs
+22.6324123501 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+3.37441491327 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+0.668463534496 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+
+Timeline details ties between Fort Worth police chief, Taser
+23.4623712846 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+8.67134111538 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+3.49169739644 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+
+Concerns over drug prompt delay of Georgia woman's execution
+32.2421853854 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+0.653386449546 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+0.224716728082 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+Drew Peterson back in court in murder-for-hire plot
+6.75085899615 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+4.3535836073 ['that', 'court', 'still', 'will', 'said', 'angeles']
+3.0632419142 ['back', 'this', 'from', 'london', 'week', 'town']
+
+Airlines move to better track planes a year after Flight 370
+6.67471906106 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+2.55353772107 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+1.00346084097 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+
+Mourners view body of slain opposition leader Boris Nemtsov
+40.4252894235 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+1.28006677857 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+0.663027906376 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+
+Villarrica volcano erupts in southern Chile, thousands flee
+28.2592036703 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+1.50286210519 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+1.35960119826 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Report: As Ebola wanes, other countries remain vulnerable
+5.41630973404 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+1.58927190954 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+0.920979849158 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+
+Ex-Rhode Island speaker to plead guilty to federal charges
+12.9151891508 ['that', 'court', 'still', 'will', 'said', 'angeles']
+8.00277431513 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+2.54504514263 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+
+Airlines stop accepting rechargeable battery shipments
+9.13438777321 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.785176436313 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+0.650165963152 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+House, in Reversal, Will Vote on Year’s Funding for Homeland Security
+16.3545890793 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+4.47830253519 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+0.479748193874 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+
+Latest News: Benjamin Netanyahu, John Kerry, Hillary Clinton
+5.65886420867 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+3.04448900706 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+2.50479158811 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+
+City Room: New York Today: Boys of Spring
+1.80616798815 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+1.6568224436 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+1.00234638595 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+
+Iraqi Forces Press Tikrit Offensive Against ISIS
+25.0464745473 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+4.5709049792 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+3.12500297599 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+Execution of Georgia Woman Is Postponed Indefinitely
+11.2057421334 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+4.96190998013 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+2.37937540859 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+Live: Netanyahu’s Address (11 AM ET)
+4.4969019466 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+1.15841421532 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+0.553986991675 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+
+Jury Selection in Boston Marathon Bombing Trial Enters Final Day
+7.74473628005 ['that', 'court', 'still', 'will', 'said', 'angeles']
+1.18392589045 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+1.01103049546 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+
+Bits Blog: BlackBerry Announces Leap Phone, Moving Back Toward Touch Screens
+6.66983036759 ['back', 'this', 'from', 'london', 'week', 'town']
+6.65668427456 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+5.88063960476 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+
+First Draft: Today in Politics
+16.0640933159 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+7.00571629196 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+5.78438449977 ['back', 'this', 'from', 'london', 'week', 'town']
+
+Motive Remains a Mystery in Chapel Hill Murders
+5.78353245197 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+3.53527875728 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+0.665854033115 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+
+News Analysis: For Netanyahu and Obama, Difference Over Iran Widened Into Chasm
+6.31106986373 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+5.94185890443 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+3.07161572926 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+
+Cross Section of Democrats to Snub Netanyahu’s Speech to Congress
+12.8496905007 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+11.3652679761 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+6.07326395735 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+
+Netanyahu, Amid Tensions, Prepares to Deliver Speech to Congress on Iran
+8.23970620383 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+4.51124191764 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+2.87739787027 ['back', 'this', 'from', 'london', 'week', 'town']
+
+Simon Rattle to Return to His Roots, Taking Over the London Symphony
+6.65073163867 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+6.36335976988 ['back', 'this', 'from', 'london', 'week', 'town']
+1.24291843381 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+
+Concerns Over Drug Prompt Delay of Georgia Woman's Execution
+32.2421888204 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+0.653391303115 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+0.224726301914 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+A Skirmish in the Open Skies
+6.48891205747 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+3.03331768938 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+2.31351273767 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+Obama and Netanyahu Play Down Rancor on Iran, but Views Still Differ Sharply
+13.8300874003 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+10.6879813565 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+2.80946371374 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+
+A Debate That Divides: A Polarized Court, Weighing a Reversal of the Safety Net
+13.3204587245 ['that', 'court', 'still', 'will', 'said', 'angeles']
+6.89777990203 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+2.07056491776 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+Obama Calls for Changes in Policing After Task Force Report
+3.5886233771 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+2.88023851564 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+1.17829353242 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Toronto Police Say Tunnel Mystery Is Solved
+9.73990579094 ['that', 'court', 'still', 'will', 'said', 'angeles']
+6.44945757466 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+4.28129891888 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+South Korea, Seeking to Curb Graft, Passes Law Restricting Gifts
+4.22364129392 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+2.82395161252 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+2.18206107191 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+Bus Driver in Delhi Gang Rape Blames Victim
+14.1665062518 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+7.5356102547 ['that', 'court', 'still', 'will', 'said', 'angeles']
+2.35532618031 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+
+European Banking Regulator Postpones Next Stress Tests to 2016
+7.39682093983 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+2.3266638805 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+2.244235675 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+Nemtsov’s Partner Says Russia Held Her Against Her Will
+8.72164234849 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+7.58029223724 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+4.72290477808 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+United Nations Memo: For the U.S. and China, a Test of Diplomacy on South Sudan
+4.94226229718 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+4.48378948891 ['back', 'this', 'from', 'london', 'week', 'town']
+2.23092320391 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+
+Venezuela Tells U.S. to Reduce Embassy Staff
+6.84591465649 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+1.43426462072 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+1.07618130353 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+
+Indian State Passes Ban on Beef Championed by Right-Wing Hindus
+7.19319360852 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+2.38508001421 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+1.97799425832 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+
+In Tehran, Too, Netanyahu’s Speech Finds an Eager Audience
+17.4894952665 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+9.43125288453 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+1.26050767687 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+20 Killed as Bus Falls Off Cliff in Central China
+6.30885251375 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+1.74461742715 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+1.62784429604 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+Figures From U.S.-Led Coalition Show Heavy 2014 Losses for Afghan Army
+9.05894032408 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+6.43799019927 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+4.52366285976 ['back', 'this', 'from', 'london', 'week', 'town']
+
+Libyan General’s Promotion Could Hinder United Nations Peace Talks
+3.43865247689 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+2.28315767548 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+2.21615381992 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+Europe Unlikely to Meet Climate Goal, Study Finds
+2.87841141862 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+1.91990203483 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+1.60214176041 ['that', 'court', 'still', 'will', 'said', 'angeles']
+
+Terrorism Case Against Pakistani Man Is Going to Jury
+8.53315663478 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+1.82613803221 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+1.78129809755 ['that', 'court', 'still', 'will', 'said', 'angeles']
+
+China Names 14 Generals Suspected of Corruption
+11.7148415515 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+1.86937934265 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+1.85276429629 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+
+Open Source: A Viral Defense of Russian Imperialism, Addressed to Obama
+5.52206761484 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+3.55691331002 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+3.50600147013 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+
+Saudi Award Goes to Muslim Televangelist Who Harshly Criticizes U.S.
+15.2163514933 ['that', 'court', 'still', 'will', 'said', 'angeles']
+7.36145805153 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+1.65397631606 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+
+The Cry Being Heard Around Washington: ‘I Need a Netanyahu Ticket’
+18.8919956651 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+4.49130464288 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+1.9562537258 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+
+Shooting of Boris Nemtsov Draws Comparisons to Death of Another Putin Foe
+8.7298295315 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+4.85631743703 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+4.39475016399 ['back', 'this', 'from', 'london', 'week', 'town']
+
+Study Says Pregnant Women in India Are Gravely Underweight
+9.38345605151 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+1.68371805625 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+1.43547927949 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+Researchers Link Syrian Conflict to a Drought Made Worse by Climate Change
+16.6143361197 ['that', 'court', 'still', 'will', 'said', 'angeles']
+1.77967808169 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+0.586681921003 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+
+3 Israelis Are Charged on Suspicion of Supplying Materials to Hamas Militants
+1.56503953605 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+1.27769640449 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+0.980323837921 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+
+Bangladeshi Police Arrest Suspect in Blogger’s Killing
+6.17131839345 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+4.76223606985 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+1.56827231227 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+
+Britain’s Elite Still Enjoying a Tax Break 100 Years Old
+6.59763703071 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+1.06650114697 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.709873477526 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+A Thin Line of Defense Against ‘Honor Killings’
+2.10490620919 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+2.08768402432 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+1.35227510547 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+In France, Pesticides Get in Way of Natural Wines
+3.20933398452 ['that', 'court', 'still', 'will', 'said', 'angeles']
+2.27007243912 ['back', 'this', 'from', 'london', 'week', 'town']
+1.404356244 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+Itineraries: Etihad Airways’ Rapid Growth Frustrates Rivals
+7.09790784586 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+3.92063728838 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+0.937249153132 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+
+Kerry Defends Israel Before U.N. Human Rights Panel
+10.9066461282 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+7.85917314437 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+5.80625863073 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+
+Billionaire Lawmakers Ensure the Rich Are Represented in China’s Legislature
+5.37441690414 ['back', 'this', 'from', 'london', 'week', 'town']
+4.63624779235 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+2.07370090861 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+
+World Briefing: Australia to Send More Troops to Iraq as Trainers in ISIS Fight
+21.1559719887 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+8.09199957571 ['that', 'court', 'still', 'will', 'said', 'angeles']
+7.37073157356 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+
+World Briefing: Pakistan: Antivaccine Parents Arrested
+9.59716466257 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+3.93654218487 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+2.6413352963 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+
+World Briefing: 2 Killed in Latest Bombing to Strike Cairo
+6.90188138115 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+3.30090838489 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+1.41961440396 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Iraqi Offensive to Retake Tikrit From ISIS Begins
+9.35750839855 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+6.98425013524 ['back', 'this', 'from', 'london', 'week', 'town']
+3.51627889618 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+Fighting in Ukraine Has Killed More Than 840 Since Mid-January, U.N. Says
+13.9963429726 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+7.17922720982 ['that', 'court', 'still', 'will', 'said', 'angeles']
+2.71752038177 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+
+Op-Ed Contributor: David Copperfield on the Enemies of Art
+1.50708657807 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+1.29999159739 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+1.14065347862 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+Op-Ed Contributor: Against ISIS, Try Patience
+7.21420002227 ['that', 'court', 'still', 'will', 'said', 'angeles']
+3.44105344206 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+1.70771005836 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+
+Sinosphere Blog: China Overtakes U.S. at the Box Office
+10.4793370784 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+9.19943013394 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+3.13995224225 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+Sinosphere Blog: Xi Jinping’s ‘Four Comprehensives’ Give Shape to a Crowded Agenda
+7.10322335186 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+3.39016729325 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+2.68602911382 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+Sinosphere Blog: Documentary on Air Pollution Grips China
+0.738215893773 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+0.551926384565 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+0.479378204811 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+White House warns Netanyahu not to reveal Iran details - CNN
+67.7530369539 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+9.5856260424 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+6.14075409047 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+
+Artist of Bill Clinton Portrait Reveals Secret - TWC News
+59.7546859513 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+26.6011733576 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+0.186028558427 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+Hillary Clinton's use of private email address while secretary of state draws scrutiny - Fox News
+73.4369880815 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+26.4524552518 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+24.1557463201 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+
+House Poised to End Homeland Security Impasse Without Immigration Fight - NBCNews.com
+75.8705562169 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+9.73580623864 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+3.53533213355 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+
+Flip for these pancakes on National Pancake Day - Fox News
+63.795842418 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+18.9130551302 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+0.00768444093989 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+
+'Jihadi John' denies he's an extremist in 2009 tape - USA TODAY
+71.2551628771 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+15.5375291241 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+2.66220938919 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+
+Russians stand in line to mourn by coffin of slain Nemtsov - Reuters
+63.7149601418 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+20.9292543284 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+16.1640003084 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+Villerrica Volcano Erupts in Southern Chile, Thousands Flee - ABC News
+71.8098143981 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+25.0301702138 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+4.45803228485 ['that', 'court', 'still', 'will', 'said', 'angeles']
+
+The chilling reason the Delhi bus gang-rapist blames his victim - Washington Post
+53.6352148871 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+3.6118930531 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+0.558197469578 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+
+O'Malley won't seek Mikulski seat, keeps White House option - WTHI
+57.8115560114 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+1.4808657922 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+1.14098550892 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+
+VIOLATING THE LAW?  Questions about Hillary's personal email use at State
+5.95916172558 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+4.02384121541 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+1.70664767651 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+BILL'S BLUE PERIOD Artist reveals Monica detail in Clinton portrait
+12.166037415 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.014961666275 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+0.00727576772058 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+
+TOGETHER AGAIN NHL star traded home after daughter's note goes viral
+2.73081323491 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+0.94241485156 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+0.476047293666 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+
+MURDER NOT SUICIDE? Famed coroner: Homicide possible at Saudi hotel
+0.627999431949 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.294849630202 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.294654918684 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Sources: House to vote on Homeland Security bill without immigration conditions - VIDEO: Inside Congress' DHS funding fight
+12.614178035 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+1.70921727148 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+1.11231092835 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+'Free-range' Maryland parents hit with 'unsubstantiated' child neglect
+6.11757165794 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+1.37331012271 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+0.422887013942 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+
+Mom responds after Cleveland officials blame boy for his death
+2.97066437194 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+2.72999811847 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+1.67341032666 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+Sources: More than a dozen ISIS operatives in Libya, but no US authority to strike - VIDEO: Libya next safe haven for ISIS?  - Tapes surface of 'Jihadi John' talking about pressure from UK intelligence services
+9.69325897995 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+5.69641682574 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+1.70382088733 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+Thousands flee as volcano erupts in southern Chile
+12.8686568656 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+7.42244958099e-14 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+4.67288473004e-39 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+Fact-checker calls out Obama for saying Keystone &lsquo;bypasses&rsquo; US
+3.27371608015 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+1.0367966796 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.10513422143 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+Feds list manatees as endangered, despite years of science-based findings
+0.944698344231 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+0.725233086501 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+0.551984463095 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+
+Obama hit for filling embassies with political allies, highest in 27 years
+6.39250623083 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+2.6422819901 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+1.10429269239 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+
+Nepal official says human waste on Mount Everest a major environmental problem
+2.79105556578 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+1.58819541626 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+1.46325485981 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+
+Mourners pay last respects to murdered Russian opposition figure - VIDEO: Putin critic gunned down in Moscow
+11.6860433049 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+1.68988102261 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+1.03664116664 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+Experts: Boko Haram beheading video shows ISIS ties - VIDEO: Is enough being done to stop Boko Haram in West Africa?
+5.39321452932 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+3.63012165524 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.465985591608 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+
+Georgia postpones woman's execution over issue with lethal injection drug
+11.9734830812 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+6.23360205931 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+0.896891301743 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+
+Border Patrol pushing to hire more women - VIDEO: Border Patrol aims to hire female agents
+1.51272796016 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+1.18879346064 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+1.03287313468 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+
+Chicago credit downgrade hangs over Emanuel's mayoral runoff race - VIDEO: Emanuel's political struggles in Chicago
+1.11244647086 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+0.985766255026 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+0.911614718893 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Ore. woman held in East Timor free to return home
+1.55524598009 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+1.50698759241 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+1.41554378563 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+LAPD chief says homeless man shot by police reached for officer's gun  - VIDEO: Homeless man shot, killed by LAPD
+15.2152517603 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+2.49612748979 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+0.695807114978 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+
+New NYC municipal ID law allows city to destroy documentation of all applicants
+1.74825052196 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+0.113874612288 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.0621746132164 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+
+Blizzard conditions expected for parts of Midwest - FOX NEWS WEATHER CENTER
+3.77250606952 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+0.164223057413 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.13577872271 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+
+Toronto police: Men built mystery tunnel for 'man cave'
+5.24386055319 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+0.772973516921 ['that', 'court', 'still', 'will', 'said', 'angeles']
+2.06801234223e-10 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+Schumacher son starts racing
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Decker shares big news
+3.74900587401 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+0.169986465438 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.0125298928969 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+George Strait mourns loss
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+What's 'Judge Judy's' fate?
+0.733141922171 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+0.144022334875 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+0.108519120724 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+Liquor store lot philosophers
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Surprising Tic Tac facts
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Are you eating wrong?
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Jesus' house found?
+4.77082067025 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+1.55050306886 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+0.911058736726 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+
+Patricia dishes  on 'CSI'
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Coolest pancake ever?
+3.72905710905 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+5.1026711368e-232 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+
+Guthrie tries out 'News' gig
+3.74900586959 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+0.169986448326 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.0125298814796 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+5 weird 'Bach' moments
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+'Connected' card hits market
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+'The Factor' plays ball
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+India rapist blames victim
+26.7172938914 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+1.113825581 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+0.922570121262 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+Will Netanyahu spill 'secrets'?
+16.1679217532 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+11.3201845147 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+0.613404428411 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+
+'Jihadi John' emails released
+16.1822257991 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+4.50823082641 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.00995098542769 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+
+Russia bids farewell to murdered opposition leader
+19.80715248 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+2.36080555676 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+1.01940909071 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+
+Why Obama and Netanyahu don't get on
+18.8187257698 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+6.72912564943 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+0.154529063512 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+
+Pastor missing in North Korea
+28.4583387467 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+0.107060740721 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+9.83820508236e-30 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+
+Clinton had no official email
+36.6860945562 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+3.53952277164 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+2.35785839936 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+U.S. woman freed in E. Timor
+6.60771815475 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+1.44776073488 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+1.26921819411 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+
+Injured F1 star misses Australia
+1.03424750127 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+1.02871471711 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.823029230391 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+
+Model's fears over Russia killing
+17.8695889302 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+7.40553520443 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+0.771598596802 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Boko Haram posts 'beheading' video
+3.97661505123 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+3.58584603128 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+2.41931203546 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Venezuela gives U.S. notice
+2.63491836289 ['back', 'this', 'from', 'london', 'week', 'town']
+1.43685472341 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+0.822081133948 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+
+Witness contradicts LAPD story
+10.8428039557 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+6.70544077844 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.308864713415 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+Mystery woman buried with king
+6.59171290422 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+2.17287481932 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+1.36429209791 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Lewinsky in Clinton's portrait
+19.4338892984 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+2.11612479723 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+2.10297322795 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+
+'Cloudy' drugs halt execution
+3.75307838975 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+2.08048456949 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+0.839314439407 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+
+NASA craft nears mysterious planet
+2.26063253714 ['back', 'this', 'from', 'london', 'week', 'town']
+1.05350725347 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+0.890003043642 ['that', 'court', 'still', 'will', 'said', 'angeles']
+
+Report: Footballer in child sex case
+6.4855884588 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+5.74969620283 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+1.84136972605 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+'Merciless devastation' in Ukraine
+7.43700578499 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+6.07569458064 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+1.36175619457 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+Obama attacks Netanyahu's credibility
+23.2581110935 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+6.01931102602 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+5.92544120289 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+
+Iraqi army, militias target ISIS city
+19.2060234904 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+6.4620872404 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+1.01017482616e-05 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+
+New images of Fidel Castro
+6.98175001996 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+5.36387771831 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+4.37447578228 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+
+Skydiver rescues unconscious buddy
+2.62667472932 ['back', 'this', 'from', 'london', 'week', 'town']
+0.740712973099 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+0.732564606321 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+Prince William will feel at home in China
+8.53295161955 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+4.93052643726 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+2.52062684956 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+
+Crowds flock to see cave 'dragon'
+1.36870134134 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+1.25857263381 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+0.985297174026 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+'Beyonce: More power than presidents'
+4.93065584155 ['back', 'this', 'from', 'london', 'week', 'town']
+1.33898979612 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+1.15969645695 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+
+U.S. and Iran: best of frenemies?
+3.54352362331 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+0.245929314869 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+0.228708055714 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Tragic tale of football hero who defied Nazis
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+CNN Exclusive: 'Pacman' on his Mayweather showdown
+1.23801176322 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+0.111442541175 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.0455492468441 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+Why I remain sad about child marriage
+3.13918046945 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+1.14408240066 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.809816347514 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+
+Wimbledon champ ponders comeback ... on Twitter
+7.7533645319 ['back', 'this', 'from', 'london', 'week', 'town']
+0.278190630644 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.038935355808 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+
+7 women who changed the world
+6.8309554699 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+1.88844887766e-38 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+8.01598866355e-73 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+MH370: Could another plane go missing?
+2.7765018891 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+0.443826396246 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+0.306083942506 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+
+Seriously. Must I tip EVERYONE in U.S.?
+0.897067391976 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+4.72511712478e-08 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+9.69215708909e-10 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Horse safari: Riding into the lions' den
+1.08685837791 ['back', 'this', 'from', 'london', 'week', 'town']
+0.730641801457 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.529685350449 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+
+Mourinho 'feeling like a kid'
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Ronaldo grabs 30th La Liga goal
+3.89276658026 ['back', 'this', 'from', 'london', 'week', 'town']
+1.12214177115 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+0.38918929301 ['that', 'court', 'still', 'will', 'said', 'angeles']
+
+'Walking Dead' town for sale
+0.991865023054 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+0.521303081471 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+0.10699840916 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+11 of the world's top food museums
+6.41062946113 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+6.28558060059e-35 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+
+How to tour 'The Sound of Music'
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+When chemistry meets couture
+0.958373279722 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+0.419939798963 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+0.339283291481 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+
+New life for old bread tags
+0.0498717184988 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.0283633010072 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+0.0210791822094 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+From warrior women to 'Lover's Lace'
+33.488554872 ['back', 'this', 'from', 'london', 'week', 'town']
+5.26001739336 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+2.16779963815 ['that', 'court', 'still', 'will', 'said', 'angeles']
+
+New chip could transform computers
+0.449409273665 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+0.338892424728 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+0.297319137188 ['that', 'court', 'still', 'will', 'said', 'angeles']
+
+Is DNA the future of data storage?
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Thousands of 'I dos'
+6.36522541061 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+1.88133924862 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+0.565627953178 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+
+Company makes plans to recover MH370 when found
+1.54324327049 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+1.21603634195 ['back', 'this', 'from', 'london', 'week', 'town']
+1.19995060859 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+
+Boko Haram: What you need to know
+3.90724287484 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+1.40045623999 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+0.365803952408 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+'Night Wolves' motorcycle gang: We will die for Putin
+25.9954165207 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+6.66551456373 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+4.19690554736 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+
+Frayed edges showing in U.S.- Israel relationship
+6.55122374661 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+3.18109386413 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+3.14409644689 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+
+Skydiver has midair seizure, can't pull cord
+2.62667472949 ['back', 'this', 'from', 'london', 'week', 'town']
+0.740712973042 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+0.732564606412 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+Mummified monk found in ancient statue
+7.36710345399 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+2.62730814336 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+0.251286905176 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+Madonna falls offstage at the Brit Awards
+2.73852199372 ['back', 'this', 'from', 'london', 'week', 'town']
+5.64586096433e-34 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+7.0842351149e-79 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+
+Volcano forms new island
+4.87932274622 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+2.46106567061 ['back', 'this', 'from', 'london', 'week', 'town']
+1.26954863684 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+Rupert Hill: Artist of the waves
+5.14604120621 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.89841180588 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+0.268902324224 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+Hundreds more worlds in our solar system?
+1.76166009941 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+1.36354587784 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.838296265434 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+
+Octopus leaps out of water, grabs crab
+1.17803549724 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+0.836027773865 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+0.432394070034 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+
+Christina Aguilera spot on with Spears impression
+6.22120083724 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+0.0611663296185 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+3.05178330485e-15 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+
+White House warns Netanyahu not to reveal Iran details
+12.7731011444 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+4.48124291694 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+1.66991472317 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+
+India rapist says victim should have allowed gang rape
+11.5162029456 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+5.17897468937 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+0.63580965041 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+
+Venezuela gives U.S. 15 days to reduce embassy staff
+1.56147313048 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+0.497542802186 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+0.0206195233875 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+
+Russia farewells murdered Kremlin critic Boris Nemtsov
+11.4353364346 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+0.50977588361 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+1.62067945627e-30 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+
+Boko Haram video appears to show beheadings
+2.16685666331 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+0.703592713337 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.0780067109648 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+
+Why did ISIS release captured Christians?
+2.10068929116 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+1.49144808231e-18 ['that', 'court', 'still', 'will', 'said', 'angeles']
+9.20669228839e-62 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+
+No shortage of color in 'Commodity City'
+1.74825052196 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+0.113874612288 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.0621746132164 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+
+The complicated life -- and tragic death -- of Nemtsov
+2.10023891005 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+1.71870987559 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+1.54671885601 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+Europe's anti-Jewish attacks: Don't cry wolf
+0.461094532961 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+0.325437174017 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.217776901171 ['that', 'court', 'still', 'will', 'said', 'angeles']
+
+Has Netanyahu gone too far?
+2.84307852074 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+1.71068657893 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+
+Time to face facts over extremism
+1.83104712369 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+0.971770133369 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+0.353253254723 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+
+Can Christianity survive Middle East turmoil?
+1.03497111919 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+0.012577627917 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+0.00424719213813 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+
+'Jihad John': The bourgeois terrorist
+3.217989542 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+0.322972734556 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+5.94018794563e-18 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+
+Farewell Spock: Fans honor Nimoy with Vulcan salute
+6.22120083728 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+0.0611663294399 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+6.11478384954e-15 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+
+Stan Lee draws Spider-Man for autistic child
+0.989433991178 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+0.0740564718833 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+0.0627274823228 ['back', 'this', 'from', 'london', 'week', 'town']
+
+Visit a secret film prop archive
+1.11147736863 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.950860568205 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+0.70814481774 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+
+Why does ISIS keep making enemies?
+2.10068929116 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+1.49144808231e-18 ['that', 'court', 'still', 'will', 'said', 'angeles']
+4.26701908439e-61 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+
+Ukraine: How did we end up here?
+1.92127625414 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+6.59742684666e-17 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+1.61875296426e-253 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+How incredible women bounce back
+1.24080510665 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.0726558270896 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+0.0649895373298 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+Chomsky: Hypocrisy of West's outrage
+0.282707255267 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.0985395530163 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+1.15605473946e-88 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+
+ISIS: Everything you need to know
+2.17683585433 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+1.31702242995 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+0.163821080395 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+
+28 Internet acronyms parents should know
+1.81806836848 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+0.972080908399 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+0.659982579655 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+
+10 incredible long-distance treks
+0.378972674141 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.333267309361 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+0.246891202771 ['back', 'this', 'from', 'london', 'week', 'town']
+
+Watch the messy truth about Ebola
+1.05655793008 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+1.01077997277 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+0.751730950375 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+The worms that invade your brain
+6.61986640969 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.613247326887 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+0.174912523399 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+
+Welcome to the new temples of pleasure
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+19 monuments lost in war zones
+0.16933602802 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+0.152803493582 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.0765889933344 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+
+Astonishing photo-realistic portraits
+0.33446306464 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+2.38232064303e-45 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+5.14651240502e-53 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+
+Could Netanyahu reveal classified information?
+10.3655481557 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+3.74762174361 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+0.14901116858 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+
+Who is Benjamin Netanyahu?
+11.0447814495 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+1.08894801758e-24 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+1.12178088216e-38 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+Rapist on victim: 'She should just be silent and allow rape'
+41.451784599 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+5.95505476043 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+4.45613901679 ['that', 'court', 'still', 'will', 'said', 'angeles']
+
+She was found at Richard III's grave site?
+8.44751273415 ['that', 'court', 'still', 'will', 'said', 'angeles']
+4.15385098481 ['back', 'this', 'from', 'london', 'week', 'town']
+2.34923035974 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Russians mourn Putin foe
+9.90823707731 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+6.2328929277 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+3.97755558284 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+
+Critics of Putin who have paid the ultimate price
+6.24405369287 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+0.417829207831 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+0.375846210393 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+Saudi diplomat in Yemen freed by al Qaeda
+4.47211822205 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+1.98474027548 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+1.11643782933 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Canada's tunnel mystery solved -- well, sort of
+13.0686855693 ['that', 'court', 'still', 'will', 'said', 'angeles']
+7.60624154054 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+3.45992952179 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+ISIS releases some Christian hostages
+4.74083952443 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+1.37734756504 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+1.11899133533 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+Kim Jong Un preps for U.S. war
+6.32727754919 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+3.34151510563 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+1.23980510713 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+Conversations with my missing wife
+6.14350424576 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+2.39230627056 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+0.0719426667328 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+
+Exclusive: King Abdullah calls ISIS 'outlaws' of Islam
+10.4328290937 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+5.23520836804 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+2.2569369959 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+
+Canadian pastor reported missing after trip to North Korea
+33.9043278201 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+0.000936498701622 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.00071147610568 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+
+Scan reveals 1,000-year-old mummified monk hidden in statue
+6.3940626047 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+1.12770036125 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.135700606095 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+
+Hong Kongers to Chinese shoppers: Go home!
+4.668330336 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+1.34170178657 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.318987492621 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+
+5 things to know about China's 'Inconvenient Truth'
+11.9392249118 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+11.0364056402 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+1.14603756334 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Volcano grows Japanese island
+4.8970644357 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+2.48282047058 ['back', 'this', 'from', 'london', 'week', 'town']
+0.730298277943 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+
+Prince William ... the Samurai
+1.35536944881 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+0.520332400173 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+0.363969327763 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+
+Leader of drug cartel detained
+6.40993868666 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+3.882861896 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+3.54492862148 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Meet Putin's 'Night Wolves'
+26.3864160941 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+6.94881607226 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+2.34847316684 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+
+Hundreds of snakes found at construction site
+9.65894562152 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+3.74275272388 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+2.10659725279 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+A black hole 12 billion times bigger than the sun exists
+1.22973119454 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+0.707287341658 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+0.64844684899 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+
+More drones hover over Paris
+4.26397648719 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+2.42483090115 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+1.87520960232 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Weir: Cannibals, a volcano and a god named John
+3.1885191048 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+1.92471321209 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+0.291253856158 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+
+Wonder in Vanuatu
+0.155876727422 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.0628802785709 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.0249814109452 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Go inside an exploding volcano
+7.43637027569 ['that', 'court', 'still', 'will', 'said', 'angeles']
+2.04828395646 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+0.494133549595 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+Why is the American flag sacred to this tribe?
+3.66767203763 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+2.74530958636 ['back', 'this', 'from', 'london', 'week', 'town']
+1.60949091363 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+Comfortably numb on Kava
+1.66480541095 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+0.925977553236 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.687137178014 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+Bill Weir welcomes you to 'The Wonder List'
+2.82764398993 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+1.13219433014 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+0.81497437472 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+What a shot! 30 amazing sports photos
+1.24508705066 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+1.07997813281 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+0.73418015714 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+
+The world's longest animal migrations
+6.41062946113 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+9.24308058455e-35 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+
+Where in the world?
+7.38803748313 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.97747117004 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+0.43321616192 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+Sea dwellers without a state
+6.58489377053 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+6.10237401841 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+1.74651011435 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+
+Freedivers' breathtaking photos of sharks
+17.0318626064 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.517497846021 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+0.399234508056 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+
+The week in 31 photos
+1.72069416126 ['back', 'this', 'from', 'london', 'week', 'town']
+1.07426513094 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.941856335668 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+World Press Photo Contest 2015
+6.96494899678 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.861225199771 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+0.241430329635 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+Look at me! 23 selfies of the week
+1.35293873243 ['back', 'this', 'from', 'london', 'week', 'town']
+0.975246456655 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+0.747704071264 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+
+The Dalai Lama: Tibet's spiritual leader
+7.19802632008 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+2.65196946835 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+1.36990061845 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+
+Monk builds own cathedral from scrap
+2.63709052214 ['back', 'this', 'from', 'london', 'week', 'town']
+0.816890082616 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+0.237233243887 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+
+Backstage at a traveling circus
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+The long arm of Kalashnikov's AK-47
+0.348825491305 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+0.280836316708 ['back', 'this', 'from', 'london', 'week', 'town']
+0.218369568014 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+Lunar New Year 2015
+41.5179738985 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+0.2870598958 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+3.77906903749e-07 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+
+Monarchies around the world
+6.50071676618 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.500671608547 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.449620275087 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+
+World War I in living color
+22.5408128185 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.259563294263 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.0352455238993 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+
+15 of the world's most colorful landscapes
+7.05836541005 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.66762330766 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+0.371772005125 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+
+Rio faces smelly Olympic challenge
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Please, respect my son's rights
+3.9424859058 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+6.49289701169e-71 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+
+My country's problem with menstruation
+6.26210947175 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+0.913046563567 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+0.177574773406 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+A really big fish story
+0.602233440361 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.0865444481698 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.00378560890972 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+
+Kim Jong Un: New look, new attitude?
+0.56136048848 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.531680854257 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.0724407688327 ['that', 'court', 'still', 'will', 'said', 'angeles']
+
+Sudan refugees take back their story
+1.84609716826 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+0.915335190423 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.904589112582 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+
+Island of forgotten dreams
+0.118307772281 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+0.0928076711975 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+0.0340052387954 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+How the Philippines saved 1,200 Jews
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+'Dragon' dinosaur unearthed
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Painting bought for $5,212, sold for $5.2M
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Movement encourages women to try covering up
+0.41610229072 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.0914846586701 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.0185672024455 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+New photos of Fidel Castro surface
+1.22182225119 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.378505684077 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+0.304352940157 ['back', 'this', 'from', 'london', 'week', 'town']
+
+20 most beautiful World Heritage Sites
+7.05836541005 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.66762330766 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+0.371772005125 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+
+Life of a geisha
+0.0498716957365 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.0283637134982 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+0.0210787616545 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+And the world's safest city is...
+6.43572360264 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+1.56143203231 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+1.63085537363e-27 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+How to find the terrorist amid tide of human misery
+3.06893723053 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+3.16142183484e-17 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+2.36378459793e-77 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+
+Amazon tribe under threat
+0.552348202189 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+0.405255653105 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+0.293115029317 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+A new sex park for Taiwan?
+0.190915808315 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+0.171327618738 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+0.164418726461 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+The scariest theme park rides on Earth
+0.190915808315 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+0.171327618738 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+0.164418726461 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+What's the perfect job for you? Ask your 5-year-old self
+6.17917247885 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+1.40024510726 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+0.0024439684369 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+
+The extraordinary art of autistic 'five-year-old Monet'
+6.07804021525 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+0.200728754567 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+0.0636771424288 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+Gifts fit for a queen
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Was King Tut's beard glued back on?
+0.376891496468 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.357932575772 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.157155046412 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+Abducted toddler found after 24 years
+2.71668004022 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+1.22989950545 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+0.817755013294 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+
+India's tiger population increasing
+0.975496490489 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+0.409581188081 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+0.361576138058 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+
+Scientists upload a worm's brain into a Lego robot
+1.08685837791 ['back', 'this', 'from', 'london', 'week', 'town']
+0.730641801457 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.529685350449 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+
+Hold on tight, we're landing sideways ...
+0.891240232712 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.168403787266 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+2.97048859974e-14 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Art made from war
+2.59706437809 ['back', 'this', 'from', 'london', 'week', 'town']
+0.773233991243 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.760691200506 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+
+World's top 25 hotels
+6.41062946113 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+2.51638442074e-35 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+
+Spectacular ancient city deserted and mysterious
+1.86037777497 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+0.10174190338 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.0557653251705 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+
+10 places we'd rather be
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Forgotten in Aleppo
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+'It just went ballistic': Shark attacks teenager
+1.73004818554 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+1.47958334437 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+1.02440517512 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+Is this the site of Jesus' trial?
+3.01672701419 ['back', 'this', 'from', 'london', 'week', 'town']
+0.631340577843 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+0.469438314187 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+
+The world's safest airlines
+6.98144853272 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+1.16375822135e-40 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+8.05173138007e-45 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+
+What killed the Maya? 'Blue Hole' offers clues
+3.27582324211 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+0.711550898999 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+0.457727095603 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+
+Helmet cam shows sniper shot to head
+1.66907089668 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+0.108424648043 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+4.02356866285e-63 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Meet the children of Silicon Valley's 'Jungle'
+2.49800987739 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+1.60173930587 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+1.30853911406 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+
+Two jobs and still living in a shelter
+10.9526445875 ['that', 'court', 'still', 'will', 'said', 'angeles']
+4.82913845557 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+1.64503302728 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+
+Teacher found hanging in class
+5.23532119023 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+2.50271221782 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+0.295144199675 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+
+Homeless man shot by LAPD: Who was 'Africa'?
+3.35774425605 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+3.80894666611e-229 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+
+How Skid Row got its name
+5.92004800183 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+1.96877046598 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+1.22003882582 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+
+Accidental shootings plague city
+3.78647298383 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+2.06716604038 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+0.828468496042 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+
+Cruel meme of tot goes viral
+6.68750816613 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+1.28692588154 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+1.08516168738 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+
+Georgia woman's execution postponed
+9.70337489804 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+2.62441118724 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+1.07571731583 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+
+Police arrest man in hacking death of blogger
+8.428402073 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+4.42766630336 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+3.91221419196 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+Girl, 14, killed after Facebook spat
+14.0443802871 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+7.1064664021 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+3.09233104289 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+
+Mysterious images perplex NASA
+0.557097162383 ['back', 'this', 'from', 'london', 'week', 'town']
+0.410838776699 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.362309261909 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+
+Police: Teen's texts encouraged friend to commit suicide
+7.11349521997 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+2.5410598229 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+2.06912038329 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
+Do you see the Lewinsky dress in this portrait?
+5.16375102418 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.747904930641 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+0.348283521146 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+
+13th Juror: Fishy case could silence accused bomber's pals
+0.692444089814 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.414081467392 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+0.25146688328 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+
+Tsarnaev associate's family to sue FBI for $30M
+3.54431274935 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+2.74559565031 ['north', 'after', 'missing', 'pastor', 'canadian', 'korea']
+1.2431255694 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+
+Case against Hernandez: What you missed
+1.50701350007 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.923910449091 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.694709899761 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+
+Learn how to hold a baby ... and a gun
+1.91628225173 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+0.773857435882 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.575845504368 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+
+1-800-DOUBTS: A new helpline for troubled atheists
+1.37091356748 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+4.06832534352e-62 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+2.18048214053e-291 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+6 from U.S. accused of supplying terrorists
+5.39159529738 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+2.40930081148 ['back', 'this', 'from', 'london', 'week', 'town']
+1.81831599937 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+
+Alleged 'street racer' surrenders after fatal hit-and-run
+13.0286242412 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+8.18338953361 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+6.91718135102 ['that', 'court', 'still', 'will', 'said', 'angeles']
+
+Man's 'Hulk' snow sculpture draws crowds
+1.23556898239 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+1.02694068991 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+0.99319913031 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+
+The dress: They're not crazy, and neither are you
+0.876373339692 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+0.607641280737 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.46399965971 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+
+Is this the best senior prank ever?
+2.88039874451 ['back', 'this', 'from', 'london', 'week', 'town']
+1.37323478039 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+1.13967402614 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+
+Girl's call exposes trail of death
+0.83716042138 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.54549895808 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+0.419879340806 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+
+Dreams come true for disabled coach
+16.2842043845 ['that', 'court', 'still', 'will', 'said', 'angeles']
+12.7885777159 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+0.553109659676 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+
+'I am the proud son of an immigrant'
+1.06748438258 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.750976491963 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+0.63389551599 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+
+The inside story of the famous Iwo Jima photo
+0.638727878917 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.35429284512 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.142677065422 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+
+Army Special Forces jump
+2.80264048476 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.117017921098 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+0.0217537258413 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+
+Hot rod frenzy
+2.49003183349 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+1.26549249964 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+0.352211629209 ['rape', 'gang', 'delhi', 'should', 'victim', 'woman']
+
+34 amazing sports photos
+1.22182225119 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.378505684077 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+0.304352940157 ['back', 'this', 'from', 'london', 'week', 'town']
+
+Oscar-winning best pictures
+19.2423234507 ['have', 'been', 'wolves', 'night', 'putin', 'reports']
+5.88711347851 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+2.98325781256 ['house', 'meeting', 'trade', 'democrats', 'white', 'while']
+
+Selfies of the week
+1.39855513073 ['back', 'this', 'from', 'london', 'week', 'town']
+0.969560386205 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+0.755764308289 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+
+Vintage NASA space photos up for auction
+9.78801918155 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+7.44007334052 ['back', 'this', 'from', 'london', 'week', 'town']
+0.344939036677 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+
+Young Native Americans celebrating their culture
+0.955012686703 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+0.903328109269 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.860544001436 ['delhi', 'washington', 'night', 'gang', 'nbsp', 'post']
+
+U.S. military's fighter fleet
+2.01811826061 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+0.440837885329 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+0.264603012721 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+
+8 castles in the U.S.
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Celebrity tattoos
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Burlesque legends still got it
+9.04351539161 ['that', 'court', 'still', 'will', 'said', 'angeles']
+2.48126069967 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+1.63010089964 ['boris', 'opposition', 'russia', 'nemtsov', 'slain', 'mourners']
+
+Fans honor Nimoy with tweets, Vulcan salute
+6.31553689634 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+2.20843414741 ['malley', 'seek', 'seat', 'mikulski', 'white', 'house']
+0.957772638507 ['iran', 'netanyahu', 'details', 'nbsp', 'talks', 'reveal']
+
+Severely autistic boy becomes gold medalist
+6.46836863971 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+0.806813250039 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+0.625747270139 ['house', 'homeland', 'security', 'vote', 'without', 'will']
+
+Frozen Niagara Falls draws tourists
+1.4123950584 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+1.2330798229 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.880176916665 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+
+Food mashups: From turducken to Cronut
+2.65159346616 ['back', 'this', 'from', 'london', 'week', 'town']
+0.816975883078 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+0.239695411975 ['email', 'account', 'clinton', 'personal', 'used', 'state']
+
+The case against Aaron Hernandez
+1.46320442147 ['state', 'iraqi', 'tikrit', 'islamic', 'isis', 'forces']
+0.945635716834 ['that', 'court', 'still', 'will', 'said', 'angeles']
+0.716425226777 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+
+U.S. Military
+2.01811826061 ['ukrainian', 'killed', 'three', 'were', 'military', 'ukraine']
+0.440837885345 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+0.26460301271 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+
+Space + Science
+0.456374071696 ['clinton', 'bill', 'artist', 'portrait', 'lewinsky', 'reveals']
+0.338447717921 ['hillary', 'clinton', 'state', 'secretary', 'private', 'email']
+0.0218597699534 ['news', 'nbsp', 'raquo', 'articles', 'today', 'that']
+
+Diet + Fitness
+0.0 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+0.0 ['nemtsov', 'russians', 'coffin', 'reuters', 'russian', 'boris']
+0.0 ['georgia', 'execution', 'drug', 'death', 'concerns', 'woman']
+
+Change the List
+3.30369015999 ['john', 'jihadi', '2009', 'extremist', 'today', 'post']
+1.23121806014 ['china', 'president', 'obama', 'second', 'reuters', 'barack']
+0.719115504422 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+Best of Travel
+0.698435738651 ['police', 'angeles', 'city', 'homeless', 'fatal', 'video']
+0.536000246958 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.311965028692 ['year', 'lunar', 'this', 'countries', 'many', 'will']
+
+What's streaming on Netflix, Amazon Prime and others in March
+1.97665491532 ['netanyahu', 'minister', 'israeli', 'benjamin', 'prime', 'congress']
+1.42389870552 ['pancake', 'these', 'national', 'pancakes', 'free', 'with']
+0.822558598799 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+
+People we lost in 2015
+1.02925734173 ['chile', 'southern', 'thousands', 'volcano', 'erupts', 'flee']
+0.474948988002 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+0.280400978954 ['rights', 'human', 'government', 'united', 'officials', 'afghanistan']
+
+Oscars 2015: Red carpet
+0.184146505871 ['with', 'zone', 'india', 'girl', 'fatal', 'people']
+0.151103922393 ['world', 'photos', 'events', 'hold', 'leaders', 'some']
+0.0379023281744 ['reuters', 'tuesday', 'said', 'over', 'monday', 'foreign']
+
